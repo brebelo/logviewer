@@ -4,8 +4,8 @@ Outil d'analyse de logs CSV issus de systèmes PLC/HMI industriels : extraction
 automatique des opérations, calcul des durées (en developpement), détection des transitions d'état, 
 via une interface web interactive.
 
-![screenshot]("screenshots/screenshot1.png")
-![screenshot]("screenshots/screenshot2.png")
+![screenshot](screenshots/screenshot1.png)
+![screenshot](screenshots/screenshot2.png)
 
 ## Contexte
 
