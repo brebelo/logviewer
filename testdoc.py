@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
+
 fichier_csv = st.file_uploader("Merci d'ajouter votre fichier", type="csv")
 
 if fichier_csv is not None:
@@ -41,4 +42,6 @@ df = df.style.apply(colorier_lignes, axis=1)
 
 #st.dataframe(df_reindexed) # print de la dataframe df
 st.dataframe(df) #print de la dataframe avec couleur, test
+
+
 

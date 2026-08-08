@@ -4,7 +4,8 @@ Outil d'analyse de logs CSV issus de systèmes PLC/HMI industriels : extraction
 automatique des opérations, calcul des durées (en developpement), détection des transitions d'état, 
 via une interface web interactive.
 
-![screenshot]("Screenshot a mettre")
+![screenshot]("logviewer/1.png")
+![screenshot]("logviewer/2.png")
 
 
 ## Stack
