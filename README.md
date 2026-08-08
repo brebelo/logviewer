@@ -42,12 +42,8 @@ pip install -r requirements.txt
 streamlit run main.py
 \`\`\`
 
-## 📁 Format de fichier attendu
+## Format de retour attendu
 
-ID	TimeString	MsgText	Numero de layer	Numero de palette
-1	x	x	x	x
-2	x	x	x	x
-…	x	x	x	x
 <img width="437" height="81" alt="image" src="https://github.com/user-attachments/assets/a008a652-0082-4e64-bbd4-363901112151" />
 
 ## 🧠 Ce que j'ai appris sur ce projet
