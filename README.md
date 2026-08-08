@@ -4,8 +4,8 @@ Outil d'analyse de logs CSV issus de systèmes PLC/HMI industriels : extraction
 automatique des opérations, calcul des durées (en developpement), détection des transitions d'état, 
 via une interface web interactive.
 
-![screenshot]("[1.png](https://github.com/brebelo/logviewer/blob/main/1.png)")
-![screenshot]("[2.png](https://github.com/brebelo/logviewer/blob/main/2.png)")
+![screenshot]("1.png")
+![screenshot]("2.png")
 
 
 ## Stack
