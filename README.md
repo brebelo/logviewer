@@ -9,10 +9,8 @@ via une interface web interactive.
 
 ## Contexte
 
-En environnement industriel, les logs machine (format CSV horodaté) contiennent 
+Lors d'extraction de logs d'un collegue, je lui ai proposé de lui developpé cette solution car les logs machine contiennent 
 des centaines d'événements bruts, difficiles à exploiter manuellement par lecture visuelle sur Excel. 
-Ariane transforme ces logs en tableaux de bord exploitables : durée des opérations, 
-temps d'arrêt, anomalies.
 
 ## Fonctionnalités
 
